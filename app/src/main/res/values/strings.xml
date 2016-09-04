@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Drink Adviser</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_drink">Find Drink</string>
+    <string name="brands"></string>
+    <string-array name="drink_colors">
+        <item>light</item>
+        <item>Amber</item>
+        <item>Black</item>
+        <item>Brown</item>
+    </string-array>
+</resources>
